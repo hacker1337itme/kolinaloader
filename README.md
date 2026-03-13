@@ -12,4 +12,4 @@ kolinaloader
 8. **Admin check**: Detects if running with elevated privileges
 9. **Architecture awareness**: Different behavior based on 32/64-bit
 
-![Alt text](https://github.com/hacker1337itme/kolinaloader/edit/main/poc.png)
+![img](https://github.com/hacker1337itme/kolinaloader/blob/main/poc.png)
